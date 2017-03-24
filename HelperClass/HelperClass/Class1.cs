@@ -8,5 +8,9 @@ namespace HelperClass
 {
     public class Class1
     {
+        public void GetHelp()
+        {
+
+        }
     }
 }
